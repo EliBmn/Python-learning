@@ -21,5 +21,6 @@ else:
 # print() displays the result in the terminal.
 print("Phishing probability:", phishing_probability)
 print("Decision:", decision)
-
+print("My first GitHub project")
+git add lesson_01.py
 # Practice: change phishing_probability to 0.10, then 0.95, and rerun.
