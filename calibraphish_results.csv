@@ -1,0 +1,5 @@
+email_id,isPhishing,confidence,phishing_score,action
+1,True,0.95,0.95,BLOCK
+2,False,0.9,0.1,SAFE
+3,True,0.65,0.65,HUMAN REVIEW
+4,False,0.6,0.4,HUMAN REVIEW
